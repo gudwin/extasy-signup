@@ -1,0 +1,29 @@
+{
+  "name": "Extasy signup",
+  "authors": [
+    {
+      "name": "Dmitry Shevchenko",
+      "email": "dmitry@dd-team.org"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "*",
+    "gudwin/extasy-users" : "0.1.*",
+    "gudwin/faid" : "dev-master",
+    "gudwin/extasy-usecase" : "0.1.*"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Extasy\\Signup\\": "src/",
+      "Extasy\\Signup\\tests\\": "tests/"
+    }
+  },
+  "autoload-dev" : {
+    "psr-4": {
+
+    }
+
+  }
+}

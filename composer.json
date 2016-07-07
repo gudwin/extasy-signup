@@ -1,5 +1,6 @@
 {
   "name": "gudwin/extasy-signup",
+  "description": "Basic module for user registration",
   "authors": [
     {
       "name": "Dmitry Shevchenko",

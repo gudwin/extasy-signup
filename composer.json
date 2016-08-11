@@ -10,7 +10,7 @@
   "require": {
     "phpunit/phpunit": "*",
     "gudwin/extasy-users" : "0.1.*",
-    "gudwin/faid" : "dev-master",
+    "gudwin/faid" : "0.1.*",
     "gudwin/extasy-usecase" : "0.1.*"
   },
   "require-dev": {
